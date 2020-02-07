@@ -1,7 +1,6 @@
 # project-404
-hotel financial system data ingestion (computer scienceproject)
+hotel financial system data ingestion/ analisys (computer scienceproject)
 
-neededs packadges:
-openpyxl
-tkinter
-os
+Writen for A-Level Computer Science Course work#
+
+2017
